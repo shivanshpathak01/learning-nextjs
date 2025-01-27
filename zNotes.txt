@@ -11,3 +11,6 @@
     client side rendering
     SEO friendly etc.
 -> Adding Dark mode to the tailwind.config.ts by : darkMode:'class', just before theme  
+-> course : Course  ==> here Course is the datatype that is defined here
+-> Always use 'use client' whenever you are rendering a client side website
+-> 
